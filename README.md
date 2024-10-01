@@ -23,11 +23,15 @@ Duck Hunt Shooter is a first-person shooting game developed in Unity using Vufor
 
 Although the project uses AR with Vuforia to interact with the real world, the demo video will be presented without AR. This is for testing purposes only. The full project is designed to function with AR enabled.
 
+
+https://github.com/user-attachments/assets/b83f5564-eb46-443d-9b01-7aa41be5a7c1
+
+
 ### How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/duck-hunt-shooter.git
+   git clone https://github.com/imariagg/duck-hunt-game.git
    ```
 2. Open the project in Unity 2021.3.11f1 (LTS) or later.
 3. Ensure that Vuforia is installed.
